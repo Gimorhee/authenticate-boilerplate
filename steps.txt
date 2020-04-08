@@ -1,0 +1,6 @@
+MERN STACK BOILERPLATE WITH AUTHENTICATION
+
+1. Set up MongoDB Atlas (Cluster, collection, etc..)
+
+2. Install Dependencies (express, express-validator, bcryptjs, config, jsonwebtoken, mongoose; nodemon, concurrently)
+- For nodemon and concurrently, use npm install -D nodemon concurrently
