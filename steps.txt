@@ -4,3 +4,5 @@ MERN STACK BOILERPLATE WITH AUTHENTICATION
 
 2. Install Dependencies (express, express-validator, bcryptjs, config, jsonwebtoken, mongoose; nodemon, concurrently)
 - For nodemon and concurrently, use npm install -D nodemon concurrently
+
+3. Set up config & connect mongoDB with the server
