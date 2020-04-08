@@ -6,3 +6,5 @@ MERN STACK BOILERPLATE WITH AUTHENTICATION
 - For nodemon and concurrently, use npm install -D nodemon concurrently
 
 3. Set up config & connect mongoDB with the server
+
+4. Set up Routes
