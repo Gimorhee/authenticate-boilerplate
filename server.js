@@ -10,6 +10,9 @@ app.get("/", (req, res) => {
   res.send("HOME ROUTE");
 });
 
+// Init Middleware
+app.use(express.json({ extended: false }));
+
 // Define Routes
 const user = require("./routes/users");
 const auth = require("./routes/auth");
